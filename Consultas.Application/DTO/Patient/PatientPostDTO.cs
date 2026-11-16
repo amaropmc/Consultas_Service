@@ -1,0 +1,19 @@
+﻿using Consultas.Application.DTO.Appointment;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Consultas.Application.DTO.Patient
+{
+    public class PatientPostDTO
+    {
+        public required string Name { get; set; }
+
+        public required string Email { get; set; }
+
+        public string? PhoneNumber { get; set; }
+
+        public DateOnly BirthDate { get; set; }
+
+    }
+}

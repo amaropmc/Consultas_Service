@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|c:\\users\\pedro amaro\\source\\repos\\consultas\\consultas.application\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|solutionrelative:consultas.application\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|c:\\users\\pedro amaro\\source\\repos\\consultas\\consultas.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|solutionrelative:consultas.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|c:\\users\\pedro amaro\\source\\repos\\consultas\\consultas.application\\dto\\patient\\patientgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5C5AF8-C254-3224-0433-17179469ABE3}|Consultas.Application\\Consultas.Application.csproj|solutionrelative:consultas.application\\dto\\patient\\patientgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBD8F06C-D13B-34F0-C892-0ECEBDEBF47F}|Consultas.Domain\\Consultas.Domain.csproj|c:\\users\\pedro amaro\\source\\repos\\consultas\\consultas.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBD8F06C-D13B-34F0-C892-0ECEBDEBF47F}|Consultas.Domain\\Consultas.Domain.csproj|solutionrelative:consultas.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "Consultas.Application\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "Consultas.Application\\Services\\PatientService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T21:44:01.812Z",
+              "IsPinned": true,
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\DTO\\Patient\\PatientGetDTO.cs",
+              "RelativeDocumentMoniker": "Consultas.Application\\DTO\\Patient\\PatientGetDTO.cs",
+              "ToolTip": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\DTO\\Patient\\PatientGetDTO.cs",
+              "RelativeToolTip": "Consultas.Application\\DTO\\Patient\\PatientGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T21:50:03.63Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Consultas.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "Consultas.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T21:47:59.013Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Consultas.Application\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\Pedro Amaro\\source\\repos\\Consultas\\Consultas.Application\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "Consultas.Application\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-16T21:45:59.987Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

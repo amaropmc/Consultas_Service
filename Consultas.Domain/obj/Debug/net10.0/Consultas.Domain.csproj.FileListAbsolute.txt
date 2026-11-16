@@ -1,0 +1,12 @@
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\bin\Debug\net10.0\Consultas.Domain.deps.json
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\bin\Debug\net10.0\Consultas.Domain.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\bin\Debug\net10.0\Consultas.Domain.pdb
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.AssemblyInfoInputs.cache
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.AssemblyInfo.cs
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\refint\Consultas.Domain.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consultas.Domain.pdb
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\ref\Consultas.Domain.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Domain\obj\Debug\net10.0\Consulta.5A52A3D0.Up2Date

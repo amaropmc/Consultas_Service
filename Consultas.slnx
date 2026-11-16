@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Consultas.API/Consultas.API.csproj" />
+  <Project Path="Consultas.Application/Consultas.Application.csproj" />
+  <Project Path="Consultas.Domain/Consultas.Domain.csproj" />
+  <Project Path="Consultas.Infra.Data/Consultas.Infra.Data.csproj" />
+  <Project Path="Consultas.Infra.Ioc/Consultas.Infra.Ioc.csproj" />
+</Solution>

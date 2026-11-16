@@ -1,0 +1,15 @@
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\bin\Debug\net10.0\Consultas.Application.deps.json
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\bin\Debug\net10.0\Consultas.Application.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\bin\Debug\net10.0\Consultas.Application.pdb
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\bin\Debug\net10.0\Consultas.Domain.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\bin\Debug\net10.0\Consultas.Domain.pdb
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.csproj.AssemblyReference.cache
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.AssemblyInfoInputs.cache
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.AssemblyInfo.cs
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consulta.71391AC1.Up2Date
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\refint\Consultas.Application.dll
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\Consultas.Application.pdb
+C:\Users\Pedro Amaro\source\repos\Consultas\Consultas.Application\obj\Debug\net10.0\ref\Consultas.Application.dll
